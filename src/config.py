@@ -1,0 +1,2 @@
+APIKEY_GSCHOOLS = "5c258ed14d692d5a08d28d08b3a57947"
+googleapikey = "AIzaSyDUm_T-Gud02p8_cUhB_De4EnLKxp6KNUE"
